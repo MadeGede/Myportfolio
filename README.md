@@ -2,7 +2,7 @@
 Personal Portfolio
 # 💼 Personal Portfolio - Made Gede
 
-Sebuah proyek **website portofolio pribadi** yang menampilkan profil, keahlian, dan kontak profesional Made Gede. Website ini dibuat dengan **HTML**, **CSS**, dan **JavaScript murni** tanpa framework tambahan, berfokus pada tampilan yang responsif dan animasi interaktif.
+Sebuah proyek **website portofolio pribadi saya** yang menampilkan profil, keahlian, dan kontak profesional Made Gede. Website ini dibuat dengan **HTML**, **CSS**, dan **JavaScript murni** tanpa framework tambahan, berfokus pada tampilan yang responsif dan animasi interaktif.
 
 ---
 
